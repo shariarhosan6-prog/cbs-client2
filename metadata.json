@@ -1,0 +1,7 @@
+{
+  "name": "EduNavi Strategy & MVP Preview",
+  "description": "A comprehensive product strategy and interactive MVP prototype for EduNavi, a student migration platform for Bangladeshi students in Australia.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
